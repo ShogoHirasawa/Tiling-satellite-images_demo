@@ -4,7 +4,7 @@ Landsat8の衛星画像をOSMにプロットしてみた
 
 ## 使用ツール/データ
 - QGIS 3.22.0-Białowieża
-- Landsat-8（[EarthExplorer](https://earthexplorer.usgs.gov/)からダウンロードした
+- Landsat-8（[EarthExplorer](https://earthexplorer.usgs.gov/)からダウンロードした)
 
 
 ### 参考資料
